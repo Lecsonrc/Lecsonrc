@@ -9,5 +9,5 @@ Lecsonrc/Lecsonrc is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 -
 Observando mais e falando menos !
-Revoluicionar omundo digital
+Revoluicionar o mundo digital
 tenho ideias genias  para o mundo moderno...
