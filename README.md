@@ -11,3 +11,6 @@ You can click the Preview link to take a look at your changes.
 Observando mais e falando menos !
 Revoluicionar o mundo digital
 tenho ideias genias  para o mundo moderno...
+Avaliando nova tecnologia.
+direct!
+<time> 
